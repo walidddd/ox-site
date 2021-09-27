@@ -1,0 +1,141 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.nav-login{
+    right: 30px;
+    left: auto;
+}
+.login{
+    margin-left: 10px;
+
+}
+.sec-4 .row{
+    justify-content: flex-end;
+}
+.sec-4 .sec-4-menu{
+    padding-left: 111px;
+}
+.login-scren .container .title-login i{
+    position: absolute;
+    left: auto;
+    right: 2px;
+
+}
+.login-scren .container .inputs-groub-one .input .icone{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+ .login-scren .container .inputs-groub-one .input input, .login-scren .container .inputs-groub-one .input .city{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}.bootstrap-select>.dropdown-toggle{
+    border-top-left-radius: 0;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 0;
+}
+.login-scren .container .inputs-groub-one .input .xspan{
+    left: 49px;
+
+}
+.login-scren .container .inputs-groub-one .input .icone-open-file{
+    right: 14px;
+    left: auto;
+}
+.login-new .login-scren{
+    left: -150px;
+}
+.supmet-sec p{
+    text-align: left;
+}
+.lowrs-one p, .lowrs-two p, .lowrs-one h5, .lowrs-two h5{
+    text-align: left;
+}
+.mansa .one-mansa .box-social .h{
+    padding-left: 25px;
+
+}
+
+.logo-end{
+    text-align: right
+}
+.send form .input .xspan{
+    right: auto;
+    left: 15px;
+}
+.sec-4 h3, .sec-4 p, .sec-4 h6{
+    width: 100%;
+
+}
+
+
+.sec-4-menu li img{
+    transform: rotate(
+        180deg
+        );
+}
+.sec-4-menu li{
+    font-size: 13px;
+
+}
+.sec-4 h3{
+    font-size: 24px;
+
+}
+.slide .carousel-inner .carousel-item .rgba .container-x .right-slider h2, .mansa .one-mansa h3, .Features h2, .Features .col-Features h6, .sec-4 h3
+,.send h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.mansa .one-mansa p, .Features .pra, .send form .input .xspan{
+    font-family: 'Lato', sans-serif;
+}
+.mansa .one-mansa .box-social .h h5, .Features .col-Features p, .sec-4 p, .sec-4 h6
+,.nav-login h6
+,.login-scren .container .title-login h6,
+.login-scren .container .selected-files .input .xspan{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+.send-b{
+    margin: 10px 10px 0 0;
+}
+.navbar-light .navbar-brand{
+    margin-left: 1rem;
+
+}
+.mobile-navbar-show ul, .navbar .mobile-navbar-show h6{
+    font-family: tahoma;
+
+}
+.bootstrap-select .dropdown-toggle .filter-option{
+    padding: 0 0;
+    display: flex;
+    justify-content: flex-start;
+}
+.filter-option-inner-inner{
+    padding-top: 10px;
+}
+.in-mobile{
+    padding-left: 20px;
+}
+@media(max-width: 800px) {
+    .navbar{
+        direction: rtl;
+    }
+     .row{
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .sec-4 .sec-4-menu{
+        padding: 0;
+    }
+    .logo-end{
+        text-align: center;
+    }
+}

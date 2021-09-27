@@ -1,0 +1,225 @@
+
+@media(max-width: 1227px){
+    .carousel-control-prev {
+        left: -43px;
+    }
+    .carousel-control-next {
+        right: -43px;
+    }
+}
+/*scren max 950px*/
+@media(max-width: 992px){
+    .slide .carousel-inner .carousel-item .rgba .container-x{
+        padding: 0 30px;
+
+    }
+    .slide .carousel-inner .carousel-item .rgba .container-x .right-slider h2{
+        font-size: 30px;
+    }
+    .list a {
+        margin: 0px 6px;
+        padding: 9px 6px;
+    }
+    .box h5{
+        font-size: 12px;
+    }
+    .box a{
+        font-size: 14px;
+    }
+    .box a{
+        margin: 3px 9px
+    }
+    .nav-login{
+        z-index: 1000;
+        width: 100%;
+        left: 0;
+        background-color: #f8f9fa;
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        padding: 15px 0 0 0;
+
+    }
+    .navbar-light .navbar-toggler{
+        position: absolute;
+        left: 25px;
+        top: 14px;
+    }
+    .navbar-animate {
+       position: relative;
+       width: 100%;
+
+    }
+}
+@media(max-width: 800px){
+    
+    .slide .carousel-inner .carousel-item .rgba .container-x .right-slider h2{
+        font-size: 15px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .slide .carousel-inner .carousel-item .rgba .container-x .right-slider{
+        align-items: center;
+        
+    }
+    .slide .carousel-inner .carousel-item .rgba .container-x{
+        padding: 0;
+        padding-top: 60px;
+    }
+    .list{
+        margin: 5px 0 25px 0;
+    }
+    .list a {
+        margin: 0px 2px;
+        padding: 8px 5px;
+        font-size: 10px;
+    }
+    .h-x100{
+        height: auto;
+    }
+    /*.left-slider .box */
+    .left-slider .box{
+        padding: 20px 0;
+        height: 100%;
+        height: 100%;
+    }
+
+    .box h5 {
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    .list a {
+        margin: 0px 2px;
+        padding: 9px 8px;
+        font-size: 13px;
+    }
+    .carousel-control-prev{
+        left: 0;
+    }
+    .carousel-control-next{
+        right: 0;
+    }
+    .nav-login{
+        z-index: 1000;
+        width: 100%;
+        left: 0;
+        background-color: #f8f9fa;
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        padding: 15px 0 0 0;
+
+    }
+    .navbar-light .navbar-toggler{
+        position: absolute;
+        left: 25px;
+        top: 14px;
+    }
+    /*end header media*/
+    /*start mansa*/
+    .mansa .one-mansa{
+        padding: 15px;
+    }
+    .mansa .one-mansa .box-social{
+        width: 100%;
+
+    }
+    .mansa .one-mansa .box-social a {
+        margin: 0 2px;
+        transition: 0.6s;
+        padding: 4px;
+    }
+    .mansa .one-mansa p{
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .Features .pra{
+        width: 90%;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .Features h2{
+        font-size: 25px;
+    }
+    .app-mansa{
+        display: flex;
+        justify-content: center;
+    }
+    .box a{
+        margin: 3px 30px;
+
+    }
+    .sec-4 {
+        position: relative;
+        padding-right: 0;
+        height: 385px;
+    }
+    .rgb{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: #b4479e21;
+        top: 0;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        padding-right: 0; 
+        text-align: center;
+        display: none;
+    }
+    .send form .input{
+        margin: 10px 0;
+        width: 100%;
+
+    }
+    .send form{
+        width: 96%;
+
+    }
+    footer .one-footer h6 {
+        margin: 0 9px;
+        font-size: 8px;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    footer .one-footer span{
+        margin-bottom: 10px;
+
+    }
+    .center-footer .social{
+        margin-bottom: 10px;
+    }
+    .logo-end{
+        text-align: center;
+    }
+    footer .one-footer{
+        margin: 10px 0;
+        text-align: center;
+        flex-direction: column;
+    }
+    .login-new .width-lower{
+        width: 100%;
+        padding: 0 10px;
+    }
+    .list img{
+        width: 80%;
+        margin: auto;
+    }
+    .button-up{
+        right: 14px;
+
+    }
+    .sec-4 .sec-4-menu{
+        display: none;
+    }
+    .in-mobile{
+        display: block;
+        height: auto;
+        background: none;
+    }
+    .in-mobile .sec-4-menu{
+        display: block;
+        padding-right: 40px;
+
+        
+    }
+}

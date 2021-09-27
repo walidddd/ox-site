@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 67" width="64" height="67">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="7.652" y1="52.486" x2="95.446" y2="14.967">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #ecc9d4 } 
+	</style>
+	<g id="home">
+		<path id="Path 12910" class="shp0" d="M1.69 31.69C1.69 29.16 2.76 26.74 4.65 25.04L25.52 6.26C28.92 3.2 34.08 3.2 37.48 6.26L58.35 25.04C60.24 26.74 61.31 29.16 61.31 31.69L61.31 54.54C61.31 59.48 57.31 63.49 52.37 63.49L43.43 63.49L43.41 63.49L19.59 63.49L19.57 63.49L10.63 63.49C5.69 63.49 1.69 59.48 1.69 54.54L1.69 31.69Z" />
+		<path id="Path 12911" class="shp1" d="M22.56 45.6C22.56 42.3 25.23 39.64 28.52 39.64L34.48 39.64C37.77 39.64 40.44 42.3 40.44 45.6L40.44 63.49L22.56 63.49L22.56 45.6Z" />
+	</g>
+</svg>

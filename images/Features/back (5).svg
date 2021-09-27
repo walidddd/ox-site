@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 57" width="61" height="57">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="328.652" y1="127.486" x2="416.446" y2="89.967">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="5.235" y1="43.368" x2="47.15" y2="12.351">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="25.309" y1="44.233" x2="81.18" y2="12.669">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #ecc9d4 } 
+		.shp2 { opacity: 0.4;fill: url(#grd2) } 
+		.shp3 { fill: url(#grd3) } 
+	</style>
+	<g id="home">
+		<path id="Path 12910" class="shp0" d="M322.69 106.69C322.69 104.16 323.76 101.74 325.65 100.04L346.52 81.26C349.92 78.2 355.08 78.2 358.48 81.26L379.35 100.04C381.24 101.74 382.31 104.16 382.31 106.69L382.31 129.54C382.31 134.48 378.31 138.49 373.37 138.49L364.43 138.49L364.41 138.49L340.59 138.49L340.57 138.49L331.63 138.49C326.69 138.49 322.69 134.48 322.69 129.54L322.69 106.69Z" />
+		<path id="Path 12911" class="shp1" d="M343.56 120.6C343.56 117.3 346.23 114.64 349.52 114.64L355.48 114.64C358.77 114.64 361.44 117.3 361.44 120.6L361.44 138.49L343.56 138.49L343.56 120.6Z" />
+	</g>
+	<g id="Emotions">
+		<path id="Path 12912" class="shp2" d="M28.57 52.46L29.14 52.46C18.63 39.85 19.38 21.33 30.86 9.6L29.43 8.17C26.51 5.04 22.42 3.26 18.14 3.26C13.86 3.26 9.77 5.04 6.85 8.17C0.89 14.62 0.89 24.57 6.85 31.03L28 51.89L28.57 52.46Z" />
+		<path id="Path 12913" class="shp3" d="M53.72 7.02C47.13 1.71 37.56 2.33 31.71 8.45L30.86 9.6C19.33 21.24 18.35 39.66 28.57 52.46C29.8 53.71 31.77 53.83 33.14 52.75L54.86 31.03C58 27.75 59.66 23.32 59.44 18.78C59.22 14.24 57.16 9.99 53.72 7.02L53.72 7.02Z" />
+	</g>
+</svg>

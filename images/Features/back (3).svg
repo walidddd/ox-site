@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 50" width="72" height="50">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="11.103" y1="29.901" x2="86.192" y2="9.099">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="24.103" y1="42.085" x2="99.192" y2="21.914">
+			<stop offset="0" stop-color="#eb6c53"  />
+			<stop offset="1" stop-color="#9934c2"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.302;fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+	</style>
+	<g id="notes">
+		<path id="Rectangle 2" class="shp0" d="M9 3L54 3C55.66 3 57 4.34 57 6L57 33C57 34.66 55.66 36 54 36L9 36C7.34 36 6 34.66 6 33L6 6C6 4.34 7.34 3 9 3Z" />
+		<path id="Subtraction 1" fill-rule="evenodd" class="shp1" d="M67 48L22 48C20.35 48 19 46.65 19 45L19 19C19 17.35 20.35 16 22 16L67 16C68.65 16 70 17.35 70 19L70 45C70 46.65 68.65 48 67 48ZM44.5 25.85C41.15 25.85 38.43 28.61 38.43 32C38.43 35.39 41.15 38.15 44.5 38.15C47.85 38.15 50.57 35.39 50.57 32C50.57 28.61 47.85 25.85 44.5 25.85ZM60.29 28.31C58.28 28.31 56.64 29.96 56.64 32C56.64 34.04 58.28 35.69 60.29 35.69C62.29 35.69 63.93 34.04 63.93 32C63.93 29.96 62.29 28.31 60.29 28.31ZM28.11 28.31C26.43 28.31 25.07 29.96 25.07 32C25.07 34.04 26.43 35.69 28.11 35.69C29.78 35.69 31.14 34.04 31.14 32C31.14 29.96 29.78 28.31 28.11 28.31Z" />
+	</g>
+</svg>
