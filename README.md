@@ -1,2 +1,2 @@
 # ox-landing-page
-landing page for application mobile (Ar + En)
+Website for application mobile (Ar + En)
